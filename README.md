@@ -1,2 +1,0 @@
-# ReactBasedXO
-Created with CodeSandbox
